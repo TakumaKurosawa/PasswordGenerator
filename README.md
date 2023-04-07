@@ -1,0 +1,2 @@
+# PasswordGenerator
+Go言語製のパスワードジェネレーター
